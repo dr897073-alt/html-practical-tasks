@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* Header */
+.header {
+    background-color: #333333;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.header img {
+    width: 50px;
+    margin-right: 80px;
+}
+
+.header a {
+    margin: 10px;
+}
+
+/* Profile box */
+.profile {
+    width: 300px;
+    margin: 35px auto;
+    padding: 25px;
+    background-color: #d3d3d3;
+    border: 1px solid black;
+    text-align: center;
+}
+
+/* Name */
+h1 {
+    color: darkblue;
+}
+
+/* Section headings */
+h2 {
+    color: darkgreen;
+}
+
+/* Paragraph */
+p {
+    text-align: left;
+    font-size: 13px;
+}
+
+/* Skills list */
+ul {
+    text-align: left;
+    font-size: 13px;
+}
